@@ -116,10 +116,6 @@ pip install -r requirements.txt
 - Verifica que tengas internet (se descarga automáticamente)
 - Espera e intenta de nuevo
 
-**Los tests tardan mucho o se cuelgan**
-- El sitio puede estar lento
-- Intenta más tarde o verifica tu conexión
-
 ## Autor
 
-Proyecto de pre-entrega del curso de Automation Testing
+Lautaro Orellano
